@@ -1,1 +1,1 @@
-#spacestuff.github.io
+spacestuff.github.io
