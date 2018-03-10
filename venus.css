@@ -1,5 +1,9 @@
+.VIntro{
+  color: #4B0082
+  border: 5px groove black;
+
 .atmosAndC{
-  color: 	#FFDEAD;
+  color: 		#00008B;
   border: 5px groove black;
 }
 p {
