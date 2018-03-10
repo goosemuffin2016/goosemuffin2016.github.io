@@ -4,7 +4,8 @@ p {
   font-weight:bold;
 }
 body {
- background-color: #00FFFF; 
+ text-align: center;
+  background-color: #00FFFF; 
   border: #FF00FF, 3px, striped;
 }
 ul {
