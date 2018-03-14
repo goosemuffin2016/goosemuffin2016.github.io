@@ -1,0 +1,17 @@
+.EIntro{
+  color: #aa80ff;
+  border: 5px groove black;
+
+.atmos{
+  color: 		#00008B;
+  border: 5px groove black;
+}
+p {
+  font-size: 13px;
+  font-weight:bold;
+}
+body {
+ background-color: #66ffd9; 
+  border: #48D1CC, 3px, bold;
+  text-align: center;
+}
